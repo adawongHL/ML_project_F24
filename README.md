@@ -23,7 +23,7 @@
 - [ ] Discuss any interesting structures or explain attempts to find them.
 
 ## Supervised Analysis
-- [ ] Train >=3 different models (e.g., Linear Regression, Logistic Regression, SVM, Neural Networks, CNN)
+- [ ] Train >=3 different models: **(1) Logistic Regression, (2) SVM, (3) Neural Networks**
 - [ ] Use the following for implementation:
   - [ ] Custom implementation or existing libraries (e.g., Keras, scikit-learn, TensorFlow).
 - [ ] Experiment with different feature transformations (at least three, e.g., polynomial, PCA, radial-basis function kernel).
