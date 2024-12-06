@@ -1,3 +1,13 @@
+## Links
+- [Dataset](https://www.openml.org/search?type=data&sort=runs&status=active&id=31) 
+
+# To-do List
+- [ ] Train models
+	- [ ] (Supervised)
+	- [ ] (Unsupervised)
+- [ ] Write-up
+- [ ] PPT
+
 # Write-up
 
 ## Introduction
@@ -13,7 +23,7 @@
 - [ ] Discuss any interesting structures or explain attempts to find them.
 
 ## Supervised Analysis
-- [ ] Train at least three distinct learning models (e.g., Linear Regression, Logistic Regression, SVM, Neural Networks, CNN).
+- [ ] Train >=3 different models (e.g., Linear Regression, Logistic Regression, SVM, Neural Networks, CNN)
 - [ ] Use the following for implementation:
   - [ ] Custom implementation or existing libraries (e.g., Keras, scikit-learn, TensorFlow).
 - [ ] Experiment with different feature transformations (at least three, e.g., polynomial, PCA, radial-basis function kernel).
