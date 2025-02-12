@@ -1,12 +1,5 @@
-## Links
+# Links
 - [Dataset](https://www.openml.org/search?type=data&sort=runs&status=active&id=31) 
-
-# To-do List
-- [ ] Train models
-	- [ ] (Supervised)
-	- [ ] (Unsupervised)
-- [ ] Write-up
-- [ ] PPT
 
 # Write-up
 
